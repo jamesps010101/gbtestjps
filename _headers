@@ -1,2 +1,2 @@
 /*
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'nonce-gbscript' https://*.gbqofs.com https://*.glassboxdigital.io
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'nonce-gbscript' https://*.gbqofs.com; connect-src https://*.glassboxdigital.io
